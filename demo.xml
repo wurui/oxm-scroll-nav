@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <data>
+        <tags>
+            <i>
+                <text>strong watch</text>
+                <id>1</id>
+            </i>
+            <i>
+                <text>2strong</text>
+                <id>2</id>
+            </i>
+            <i>
+                <text>33 watch</text>
+                <id>3</id>
+            </i>
+            <i>
+                <text>4454</text>
+                <id>4</id>
+            </i>
+            <i>
+                <text>555strong watch</text>
+                <id>5</id>
+            </i>
+            <i>
+                <text>22strong</text>
+                <id>6</id>
+            </i>
+        </tags>
+    </data>
+
+</root>

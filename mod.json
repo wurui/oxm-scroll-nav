@@ -1,0 +1,6 @@
+{
+  "name": "oxm-scroll-nav",
+  "version": "1.0.0",
+  "apiDependencies": ["tags"]
+}
+

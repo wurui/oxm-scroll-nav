@@ -1,0 +1,21 @@
+.oxmod-oxm-scroll-nav {
+  /* CSS */
+}
+.oxmod-oxm-scroll-nav .nav {
+  background-color: rgba(100, 100, 100, 0.1);
+  box-shadow: 0.1rem 0.1rem 0.1rem rgba(100, 100, 100, 0.5);
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+.oxmod-oxm-scroll-nav .nav::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+.oxmod-oxm-scroll-nav .nav em {
+  display: inline-block;
+  padding: .1rem .3rem;
+  font-style: normal;
+  border: solid 1px #fcc;
+}
