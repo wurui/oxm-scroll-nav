@@ -1,6 +1,7 @@
 define([],function(){
   return {
     init:function($mod){
+      return;
       var $nav=$mod.children('.J_nav');
       var items=$nav.children('em');
 
